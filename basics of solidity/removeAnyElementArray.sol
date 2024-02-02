@@ -1,9 +1,12 @@
 //Remove any element from array using pop() with less gas consumption.
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 contract ArrayExample {
     uint[] public myArray;
-
+    function additem(uint _item) public{
+        myArray.push(_item);
+    }
     function removeItem(uint _index) public {
         require(_index < myArray.length, "Index out of bounds");
 
@@ -14,3 +17,4 @@ contract ArrayExample {
         myArray.pop();
     }
 }
+
