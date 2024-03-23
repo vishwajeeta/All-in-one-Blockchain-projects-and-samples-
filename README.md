@@ -1,1 +1,1 @@
-# All-in-one-Blockchain-projects-and-samples-
+# Complete smart-contract development course Beginner -> Advanced
