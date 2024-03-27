@@ -1,7 +1,7 @@
 # Complete smart-contract development course Beginner To Advanced
 ## Things i got to know are:-
 
-libraly
+libraly creation
 
 inheritance
 
@@ -12,6 +12,7 @@ msg.sender
 
 msg.value
 
+langchain priceAction
 
 transfer
 
