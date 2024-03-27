@@ -12,7 +12,7 @@ msg.sender
 
 msg.value
 
-langchain priceAction
+chainLink Fetch the Current Price of Assets in Solidity
 
 transfer
 
