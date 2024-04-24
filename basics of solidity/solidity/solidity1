@@ -1,0 +1,12 @@
+//calculation 
+pragma solidity ^0.6.0;
+contract vishwa{
+    uint256 public golu;
+    function add(uint256 _golu) public{
+        //golu=_golu;
+        golu=golu+_golu;
+    }
+    function sub(uint256 _goolu) public{
+        golu=golu-_goolu;
+    }
+}
